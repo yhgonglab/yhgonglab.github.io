@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /About/
+permalink: /about/
 ---
 
 ### Young-Ho Gong
@@ -31,7 +31,7 @@ Teaching
   
 Publications
 ======
-* Google scholar (https://scholar.google.com/citations?hl=en&user=j_7MT9kAAAAJ&view_op=list_works&sortby=pubdate)
+* Full list can be found in Google scholar (https://scholar.google.com/citations?hl=en&user=j_7MT9kAAAAJ&view_op=list_works&sortby=pubdate)
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
