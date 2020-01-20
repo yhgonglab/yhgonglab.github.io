@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "Kording lab at University of Pennsylvania"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
+name:               "Young-Ho Gong's Lab"
+title:              "Memory System and Processor Architecture Lab."
+description:        "this is a page for Memory System and Processor Architecture Lab. in Kwangwoon University"
 
 
 # URL
-url:                http://kordinglab.com
+url:                http://yhgonglab.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
