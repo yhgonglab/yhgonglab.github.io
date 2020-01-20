@@ -9,20 +9,33 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 
 
-### 2019
+## 2019
 
 _Quantifying the Impact of Monolithic 3D (M3D) Integration on L1 Caches_<br>
 **_Y.-H. Gong_**, J. Kong, and S. W. Chung<br>
-IEEE Transactions on Emerging Topics in Computing (**JCR 2018 Q1 IF: 4.989**), accepted
+IEEE Transactions on Emerging Topics in Computing (**JCR Q1 IF: 4.989**), accepted
 
 _Exploring the Relation between Monolithic 3D L1 GPU Cache Capacity and Warp Scheduling Efficiency_<br>
 C. T. Do, **_Y.-H. Gong_**, C. H. Kim, S. W. Kim, and S. W. Chung<br>
 IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), 2019
 
-### 2018
+## 2018
 
 _Thermal Modeling and Validation of a Real-World Mobile AP_<br>
 **_Y. -H. Gong_**, J. J. Yoo, and S. W. Chung<br>
 IEEE Design & Test (**IF: 3.022**), vol. 35, no. 1, pp. 55-62, February 2018.
 
-Towards Refresh-optimized EDRAM-based Caches with a Selective Fine-grain Round-robin Refresh Scheme
+
+## 2017
+_Towards Refresh-optimized EDRAM-based Caches with a Selective Fine-grain Round-robin Refresh Scheme_<br>
+J. Kong, **_Y. -H. Gong_**, and S. W. Chung<br>
+Microprocessors and Microsystems (**IF: 1.045**), vol. 49, pp. 95-104, March 2017.
+
+## 2016
+_Exploration of Temperature-aware Refresh Schemes for 3D Stacked eDRAM Caches_<br>
+**_Y. -H. Gong_**, J. M. Kim, S. K. Lim, and S. W. Chung<br> 
+Microprocessors and Microsystems (**IF: 1.045**), vol. 42, pp. 100-112, May 2016.
+
+_Exploiting Refresh Effect of DRAM Read Operations: A Practical Approach to Low-power Refresh_<br>
+**_Y. -H. Gong_** and S. W. Chung<br>
+IEEE Transactions on Computers (**IF: 3.131**), vol. 65, no. 5, pp. 1507-1517, May 2016.
