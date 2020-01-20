@@ -8,10 +8,14 @@ permalink: /resources/
 {% for type in reference_types %}
 
 {% if type == 'scientists' %}
-### **For scientists:**
- {% elsif type == 'students' %}
-### **For students, lab members**
- {% elsif type == 'blog' %}
+### ** News **
+
+
+
+
+
+
+
 ### **Blogs**
 {% endif %}
 
