@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-### Young-Ho Gong
+## Young-Ho Gong
 
 
 
@@ -29,7 +29,9 @@ permalink: /about/
 
 # Publications
 * Go to Publication page 
-* Full list can be found in Google scholar (https://scholar.google.com/citations?hl=en&user=j_7MT9kAAAAJ&view_op=list_works&sortby=pubdate)
+* Full list can be found in [Young-Ho's Google Scholar][googlelink]
+
+[googlelink]: https://scholar.google.com/citations?hl=en&user=j_7MT9kAAAAJ&view_op=list_works&sortby=pubdate
 
   
   
