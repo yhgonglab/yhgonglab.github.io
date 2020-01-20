@@ -3,8 +3,7 @@ title: About
 permalink: /about/
 ---
 
-Young-Ho Gong
-=====
+### Young-Ho Gong
 
 
 
