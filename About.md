@@ -1,6 +1,6 @@
 ---
-title: Professor
-permalink: /Professor/
+title: About
+permalink: /About/
 ---
 
 ### Young-Ho Gong
