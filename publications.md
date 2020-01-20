@@ -42,13 +42,13 @@ J. Kong, **_Y. -H. Gong_**, and S. W. Chung<br>
 Microprocessors and Microsystems (**IF: 1.045**), vol. 49, pp. 95-104, March 2017.
 
 ## 2016
-_Exploration of Temperature-aware Refresh Schemes for 3D Stacked eDRAM Caches_<br>
-**_Y. -H. Gong_**, J. M. Kim, S. K. Lim, and S. W. Chung<br> 
-Microprocessors and Microsystems (**IF: 1.045**), vol. 42, pp. 100-112, May 2016.
-
 _Exploiting Refresh Effect of DRAM Read Operations: A Practical Approach to Low-power Refresh_<br>
 **_Y. -H. Gong_** and S. W. Chung<br>
 IEEE Transactions on Computers (**IF: 3.131**), vol. 65, no. 5, pp. 1507-1517, May 2016.
+
+_Exploration of Temperature-aware Refresh Schemes for 3D Stacked eDRAM Caches_<br>
+**_Y. -H. Gong_**, J. M. Kim, S. K. Lim, and S. W. Chung<br> 
+Microprocessors and Microsystems (**IF: 1.045**), vol. 42, pp. 100-112, May 2016.
 
 ## 2013
 _Performance and Cache Access Time of SRAM-eDRAM Hybrid Caches Considering Wire Delay_<br>
